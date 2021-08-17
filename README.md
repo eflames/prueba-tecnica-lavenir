@@ -23,7 +23,7 @@ Este repositorio es de uso exclusivo para la prueba técnica del Ing. Ernesto Fl
 
 **Requisitos previos:**
 
-- Node && NPM
+- Node y NPM
 - Composer
 - MySQL ó MariaDB
 - Servidor Apache o Nginx (opcional)
@@ -32,7 +32,7 @@ Este repositorio es de uso exclusivo para la prueba técnica del Ing. Ernesto Fl
 
 1. Descargar el repositorio a su equipo local
 
-2. Abrir una terminal y una vez situado en la carpeta raíz del repositorio ejecutar la instalacion de Laravel y sus paquetes con el siguiente comando:
+2. Abrir una terminal y una vez situado en la carpeta raíz del repositorio ejecutar la instalación de Laravel y sus paquetes con el siguiente comando:
 
 ``` bash
 composer install 
@@ -67,11 +67,13 @@ php artisan optimize
 php artisan migrate --seed 
 ```
 
-8. Finalmente y nuevamente en la terminal iniciamos el servidor para ejecutar la aplicación con el siguiente comando:
+8. Finalmente iniciamos el servidor para ejecutar la aplicación con el siguiente comando:
 
 ``` bash
 php artisan serve 
 ```
+
+**Nota:** Una vez iniciado el servidor, se puede visitar la aplicación en la siguiente dirección: http://127.0.0.1:8000
 
 9. Puede crear un usuario nuevo y entrar o puede entrar con los siguientes datos:
 
