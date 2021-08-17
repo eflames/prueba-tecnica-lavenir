@@ -78,7 +78,7 @@ php artisan serve
 **Usuario:** eflames
 **Pass:** 123123123
 
-## Requirimientos de la empresa para esta prueba
+## Requerimientos de la empresa para esta prueba
 Este es el escrito recibido de la empresa con las instrucciones para esta prueba.
 
 **Backend**
